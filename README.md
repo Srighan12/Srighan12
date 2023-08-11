@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Srighan
+- 👋 Hi, I’m Sriguhan
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning python,SQL,PowerBI,Pyspark,scikit-learn
 - 💞️ I’m looking to collaborate on Data professionals
